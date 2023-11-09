@@ -8,6 +8,7 @@
 ### 🏡 Chore
 
 - **release:** V0.0.1 ([37afd92](https://github.com/WorkRootTech/nuxt-form/commit/37afd92))
+- **release:** V0.0.1 ([3a214a0](https://github.com/WorkRootTech/nuxt-form/commit/3a214a0))
 
 ### ❤️ Contributors
 
