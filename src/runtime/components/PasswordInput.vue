@@ -21,15 +21,13 @@
       <Icon
         v-if="type == 'password'"
         name="solar:lock-password-bold"
-        color="black"
-        class="cursor-pointer"
+        class="cursor-pointer text-black dark:text-white"
         @click="updateType"
       />
       <Icon
         v-else
         name="solar:lock-password-unlocked-bold"
-        color="black"
-        class="cursor-pointer"
+        class="cursor-pointer text-black dark:text-white"
         @click="updateType"
       />
     </div>
