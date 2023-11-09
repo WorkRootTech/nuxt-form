@@ -3,7 +3,7 @@ Get your module up and running quickly.
 
 Find and replace all on all files (CMD+SHIFT+F):
 - Name: My Module
-- Package name: @WorkRootTech/nuxt-form
+- Package name: @workroot/nuxt-form
 - Description: My new Nuxt module
 -->
 
@@ -30,24 +30,24 @@ My new Nuxt module for doing amazing things.
 
 ## Quick Setup
 
-1. Add `@WorkRootTech/nuxt-form` dependency to your project
+1. Add `@workroot/nuxt-form` dependency to your project
 
 ```bash
 # Using pnpm
-pnpm add -D @WorkRootTech/nuxt-form
+pnpm add -D @workroot/nuxt-form
 
 # Using yarn
-yarn add --dev @WorkRootTech/nuxt-form
+yarn add --dev @workroot/nuxt-form
 
 # Using npm
-npm install --save-dev @WorkRootTech/nuxt-form
+npm install --save-dev @workroot/nuxt-form
 ```
 
-2. Add `@WorkRootTech/nuxt-form` to the `modules` section of `nuxt.config.ts`
+2. Add `@workroot/nuxt-form` to the `modules` section of `nuxt.config.ts`
 
 ```js
 export default defineNuxtConfig({
-  modules: ["@WorkRootTech/nuxt-form"],
+  modules: ["@workroot/nuxt-form"],
 });
 ```
 
@@ -81,11 +81,11 @@ npm run release
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@WorkRootTech/nuxt-form/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-version-href]: https://npmjs.com/package/@WorkRootTech/nuxt-form
-[npm-downloads-src]: https://img.shields.io/npm/dm/@WorkRootTech/nuxt-form.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-downloads-href]: https://npmjs.com/package/@WorkRootTech/nuxt-form
-[license-src]: https://img.shields.io/npm/l/@WorkRootTech/nuxt-form.svg?style=flat&colorA=18181B&colorB=28CF8D
-[license-href]: https://npmjs.com/package/@WorkRootTech/nuxt-form
+[npm-version-src]: https://img.shields.io/npm/v/@workroot/nuxt-form/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-version-href]: https://npmjs.com/package/@workroot/nuxt-form
+[npm-downloads-src]: https://img.shields.io/npm/dm/@workroot/nuxt-form.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-downloads-href]: https://npmjs.com/package/@workroot/nuxt-form
+[license-src]: https://img.shields.io/npm/l/@workroot/nuxt-form.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-href]: https://npmjs.com/package/@workroot/nuxt-form
 [nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js
 [nuxt-href]: https://nuxt.com

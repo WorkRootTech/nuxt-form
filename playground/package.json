@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@WorkRootTech/nuxt-form-playground",
+  "name": "@workroot/nuxt-form-playground",
   "type": "module",
   "scripts": {
     "dev": "nuxi dev",
