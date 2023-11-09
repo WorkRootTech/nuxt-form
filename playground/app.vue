@@ -29,6 +29,6 @@ const loginForm = reactive({
 });
 
 const submit = () => {
-  console.log(loginForm);
+  // console.log(loginForm);
 };
 </script>
